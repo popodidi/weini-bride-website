@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Weini Liao Makeup Studio"
-baseURL = "https://www.weini.co"
+baseURL = "https://www.weini.co/"
 theme = "hugo-creative-portfolio-theme"
 
 # hugo-creative-portfolio-theme settings
